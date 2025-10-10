@@ -7,5 +7,5 @@ je m'appel Tonin je suis étudiant en deuxieme année informatique à l'universi
 ## 🚀 Projets
 https://github.com/FC25dtr/casino.python-tkinter  Perso 
 
-https://github.com/FC25dtr/python_scolaire/tree/main math pour l'informatique en python
+https://github.com/FC25dtr/python_scolaire math pour l'informatique en python
 
