@@ -6,7 +6,7 @@ je m'appel Tonin je suis étudiant en deuxieme année informatique à l'universi
 
 ## 🚀 Projets
 
-https://github.com/FC25dtr/projet-cryptographie/ creation du modele de cryptographie RSA sans l'aide d'import cryptographique (100% personnel)
+https://github.com/FC25dtr/projet-cryptographie/ creation du modele de cryptographie RSA sans l'aide d'import cryptographique 
 
 https://github.com/FC25dtr/Projet_simulation_Trame Simulation d'une trame TCP avec touts les outils de synchronisation en C
 
