@@ -2,18 +2,14 @@
 
 Bienvenue dans mon espace de projets !  
 Chaque projet est un dépôt séparé 
-je m'appel Tonin je suis étudiant en deuxieme année informatique à l'université de Toulon
+je m'appel Tonin je suis étudiant (et Major) en deuxieme année informatique à l'université de Toulon
 
 ## 🚀 Projets
 
 https://github.com/FC25dtr/projet-cryptographie/ creation du modele de cryptographie RSA sans l'aide d'import cryptographique 
 
+https://github.com/FC25dtr/etude_cachalot_information_dirigee Identification d'un individu alpha au sein d'un groupe de six cachalots par mesure de l'Information Dirigée entre leurs trajectoires GPS.
+
 https://github.com/FC25dtr/Projet_simulation_Trame Simulation d'une trame TCP avec touts les outils de synchronisation en C
-
-https://github.com/FC25dtr/gestion_personnel_ressoureC/tree/main creation d'un modèle de gestion de ressource avec un semaphore par rapport à un nombre de personne voulant prendre cette ressource, réalisé en C, Systeme V, 
-
-https://github.com/FC25dtr/python/ math pour l'informatique en python
-
-https://github.com/FC25dtr/langage_C en langage C
 
 https://github.com/FC25dtr/reseau-systeme manipulation reseau et systeme 
