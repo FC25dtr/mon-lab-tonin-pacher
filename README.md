@@ -6,7 +6,7 @@ je m'appel Tonin je suis étudiant (et Major) en deuxieme année informatique à
 
 ##  Projets
 
-https://github.com/FC25dtr/projet-cryptographie/ creation du modele de cryptographie RSA sans l'aide d'import cryptographique 
+https://github.com/FC25dtr/messagerie-crypt-AES-CBC-et-RSA/ creation d'une messagerie cryptée a l'aide du modele de cryptographie RSA sans l'aide d'import cryptographique et du modele AES sans import non plus tout est codé from scratch
 
 https://github.com/FC25dtr/etude_cachalot_information_dirigee Identification d'un individu alpha au sein d'un groupe de six cachalots par mesure de l'Information Dirigée entre leurs trajectoires GPS.
 
