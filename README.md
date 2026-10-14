@@ -12,4 +12,4 @@ https://github.com/FC25dtr/etude_cachalot_information_dirigee Identification d'u
 
 https://github.com/FC25dtr/Projet_simulation_Trame Simulation d'une trame TCP avec touts les outils de synchronisation en C
 
-CHIFFREMENT AES COMING SOON....  
+ 
